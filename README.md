@@ -1,1 +1,1 @@
-# Bank-Note-Authentication
+Images acquired from fake and real banknote-like specimens were used to extract data. An industrial camera typically utilized for print inspection was employed for digitization. 400 × 400 pixels. Grayscale images with a resolution of around 660 dpi were obtained, but this depends on the object lens and the distance to the item under investigation. In order to extract features from photos, the Wavelet Transform tool was employed.
